@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HlBd+qKE0aNbKT7GSIa0SQLWMDx4/qimZeXmfXEVme4aHyzsAKQkqBbGS+8jFSTlW1anPyfvndphkncGWTHBDw==",
+  "dgSpecHash": "uKAZpTNVH4CkxYA62VKBioh0tOt55IlnNSFNVUqswHgU9q4PZjRYknTH9ht2v1HMzHjW893K6Hd4Ok9aKv/d1Q==",
   "success": true,
-  "projectFilePath": "D:\\horizont\\Curso_C#_Jesus\\Clase1\\WebApplicationClase1\\WebApplicationClase1\\WebApplicationClase1.csproj",
+  "projectFilePath": "D:\\horizont\\Curso_C#_Jesus\\Clase2\\AppNetCore\\WebApplicationClase1\\WebApplicationClase1\\WebApplicationClase1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jnizama\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.10\\microsoft.aspnetcore.mvc.razor.extensions.3.1.10.nupkg.sha512",
     "C:\\Users\\jnizama\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\3.1.10\\microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.10.nupkg.sha512",

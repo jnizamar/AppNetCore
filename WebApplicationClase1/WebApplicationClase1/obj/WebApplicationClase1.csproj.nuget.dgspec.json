@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\horizont\\Curso_C#_Jesus\\Clase1\\WebApplicationClase1\\WebApplicationClase1\\WebApplicationClase1.csproj": {}
+    "D:\\horizont\\Curso_C#_Jesus\\Clase2\\AppNetCore\\WebApplicationClase1\\WebApplicationClase1\\WebApplicationClase1.csproj": {}
   },
   "projects": {
-    "D:\\horizont\\Curso_C#_Jesus\\Clase1\\WebApplicationClase1\\WebApplicationClase1\\WebApplicationClase1.csproj": {
+    "D:\\horizont\\Curso_C#_Jesus\\Clase2\\AppNetCore\\WebApplicationClase1\\WebApplicationClase1\\WebApplicationClase1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\horizont\\Curso_C#_Jesus\\Clase1\\WebApplicationClase1\\WebApplicationClase1\\WebApplicationClase1.csproj",
+        "projectUniqueName": "D:\\horizont\\Curso_C#_Jesus\\Clase2\\AppNetCore\\WebApplicationClase1\\WebApplicationClase1\\WebApplicationClase1.csproj",
         "projectName": "WebApplicationClase1",
-        "projectPath": "D:\\horizont\\Curso_C#_Jesus\\Clase1\\WebApplicationClase1\\WebApplicationClase1\\WebApplicationClase1.csproj",
+        "projectPath": "D:\\horizont\\Curso_C#_Jesus\\Clase2\\AppNetCore\\WebApplicationClase1\\WebApplicationClase1\\WebApplicationClase1.csproj",
         "packagesPath": "C:\\Users\\jnizama\\.nuget\\packages\\",
-        "outputPath": "D:\\horizont\\Curso_C#_Jesus\\Clase1\\WebApplicationClase1\\WebApplicationClase1\\obj\\",
+        "outputPath": "D:\\horizont\\Curso_C#_Jesus\\Clase2\\AppNetCore\\WebApplicationClase1\\WebApplicationClase1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jnizama\\AppData\\Roaming\\NuGet\\NuGet.Config",
