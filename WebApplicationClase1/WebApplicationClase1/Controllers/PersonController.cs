@@ -33,7 +33,7 @@ namespace WebApplicationClase1.Controllers
             }
             else
             {
-                return RedirectToAction("Registrar", person);
+                return View("Registrar", person);
             }   
         }
     }
